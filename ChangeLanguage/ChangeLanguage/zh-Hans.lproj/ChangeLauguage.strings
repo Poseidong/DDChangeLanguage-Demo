@@ -1,0 +1,11 @@
+/* 
+  ChangeLauguage.strings
+  ChangeLanguage
+
+  Created by Poseidon on 2017/11/11.
+  Copyright © 2017年 Poseidon. All rights reserved.
+*/
+
+"homePage" = "首页";
+"changeToEnglish" = "切换到英文";
+"changeToChinese" = "切换到中文";
